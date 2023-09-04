@@ -1,0 +1,96 @@
+header {
+    background-color:#99CCFF;
+    height: 100px;
+    width: 1600px;
+}
+footer {
+    height: 100px;
+    width: 1600px;
+    background-color:#9999FF;
+}
+table {
+    text-align:center;
+    color:white;
+    height: 400px;
+    width: 400px;
+}
+td {
+    height: 100px;
+    width: 100px;
+}
+img {
+    height: 50px;
+    width: 50px;
+}
+#table_1-1 {
+    background-color:#0183ff;
+}
+#table_1-1_crab {
+    background-color:#fcae1e;
+}
+#table_1-2 {
+    background-color:#36affe;
+}
+#table_1-3 {
+    background-color:#67cbff;
+}
+#table_1-3_octopus {
+    background-color:#728c69;
+}
+#table_1-4 {
+    background-color:#99e7fe;
+}
+#table_2-1 {
+    background-color:#014e86;
+}
+#table_2-1_dolphin {
+    background-color:#ed820e;
+}
+#table_2-2 {
+    background-color:#01a1c5;
+}
+#table_2-3 {
+    background-color:#01bdd6;
+}
+#table_2-3_seahorse {
+    background-color:#98bf64;
+}
+#table_2-4 {
+    background-color:#5fe0f3;
+}
+#table_3-1 {
+    background-color:#011d80;
+}
+#table_3-1_fish {
+    background-color:#ed7117;
+}
+#table_3-2 {
+    background-color:#216789;
+}
+#table_3-3 {
+    background-color:#4d96b6;
+}
+#table_3-3_shark {
+    background-color:#466d1d;
+}
+#table_3-4 {
+    background-color:#69aac8;
+}
+#table_4-1 {
+    background-color:#010119;
+}
+#table_4-1_jellyfish {
+    background-color:#cc5801;
+}
+#table_4-2 {
+    background-color:#01115f;
+}
+#table_4-3 {
+    background-color:#164267;
+}
+#table_4-3_turtle {
+    background-color:#234f1d;
+}
+#table_4-4 {
+    background-color:#026396;
+}
